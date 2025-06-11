@@ -1,0 +1,125 @@
+Joshua Mshana
+Senior Software Developer: https://github.com/joshuamshana
+Sayansi, Kijitonyama
+Dar Es Salaam, Tanzania
+(255) 764 943 055
+mama27j@gmail.com
+BUSINESS EXPERIENCE
+Mraba - SmartStock, Tanzania — Founder
+Sep 2020 - Present
+A super app for businesses. I have helped SMEs control their stocks, record
+sales, purchases, and expenses, and provide them with insight reports that
+help them make business decisions and more.
+Mraba Super App
+WORK EXPERIENCE
+NMB Bank, Tanzania - Senior Software Developer
+August 2022 - Present
+Working as a senior software developer.
+CONSULTATION EXPERIENCE
+Mkombozi Co.LTD, Tanzania — Consultant
+April 2022 - Present
+Provide professional consultation about the software architecture and
+infrastructures.
+TrueBits, Tanzania — Developer
+April 2020 - Sep 2020
+Working as a FullStack developer
+DataVision, Tanzania — Developer
+June 2019 - Jan 2020
+Working as a FullStack developer
+SokoWorld, Tanzania — Developer
+Jan 2019 - June 2019
+Working as FullStack Developer and project manager
+SKILLS & TECHNOLOGY
+UI Design.
+NodeJS.
+ReactJS & ReactNative.
+Angular2.
+Android.
+Spring Framework.
+Flutter.
+MongoDB.
+MySQL.
+Figma.
+Postgres DB.
+Docker & Docker Swarm
+Computer Skills.
+Soft Skills.
+Imagination Skill.
+Business Skills.
+Leadership.
+Deep Learning
+COMPUTER LANGUAGES
+Javascript ( Good )
+Java ( Good )
+Kotlin ( Good )
+Dart ( Good )
+PHP ( Poor )
+EDUCATION
+Institute of Financial Management, Tanzania
+Nov 2024 - Present
+Studying a Bachelor of Computer Science.
+KTH Royal Institute Of Technology, Sweden
+Sep 2021 - Jan 2022
+Studying Leadership and Management short course. Student exchange
+program between UDSM and KTH University.
+University Of Dar Es Salaam, Tanzania
+Nov 2016 - June 2019
+Studying BSc. in Computer Engineering. Drop out during 3rd year due to family
+issues.
+Mtwara Technical Secondary School, Tanzania — Advanced
+Level
+July 2014 - May 2016
+Studying Physics, Chemistry And Mathematics [ PCM ].
+Azania Secondary School, Tanzania — Ordinary Level
+Jan 2010 - Sep 2013
+Studying Science subjects.
+Ukombozi Primary School, Tanzania — Primary Level
+Jan 2003 - Sep 2009.
+PROJECTS
+Check my GitHub repository for more open source projects (
+https://github.com/joshumshana, https://github.com/fahamutech ,
+https://github.com/smartstocktz )
+I have been participating in many projects and initiatives below are some of
+them.
+NMB Mkononi — Mobile App
+NMB Bank, mobile banking experience Mkononi app
+GSM Website — Web
+Website for GSM business activities. https://gsmgroup.africa/
+HUMAN LANGUAGES
+Kiswahili ( Native )
+English ( Intermediate )
+MyHotel — Mobile, Web & Desktop
+Hotel management system to help provide booking for walk-in and online.
+https://myhotel.fahamutech.com
+Duara — Mobile Messenger Platform
+Mobile application to connect consultants like doctors, lawyers, etc with
+communities.
+https://play.google.com/store/apps/details?id=com.fahamutech.duara
+KaziSquare — RapidPro BasedPlatform
+SMS-powered job posting and seeking for youth.
+Send SMS kazikazi to 15070 to interact with a system. Or use our telegram bot
+SmartStock — Manage Business Stocks And Sales
+Platform to help businesses take control of their stocks and track sales.
+https://smartstock.co.tz
+BFast — Database & Functions as a Service Platform
+Provide developers the ability to fast-track their software development career
+and cloud cluster to host projects.
+https://bfast.fahamutech.com
+KilimoTaarifa — Connect Farmer And Agriculture Info
+Platform to help farmers know how to farm and when and what depend
+On demand and market needs. It also provides a marketplace for farmers to sell
+their products.
+https://play.google.com/store/apps/details?id=com.fahamutech.weather
+KemifraPID — Consultation
+Platform to help men and women to learn about PID and get consultations.
+https://play.google.com/store/apps/details?id=com.fahamutech.doctorapp
+HackaIO — Hackathon Events
+Platform to help the developers community around CoICT to share knowledge.
+https://github.com/hackaio
+UbongoKids App & Portal — Mobile application development
+A mobile portal to distribute their contents to children who have access to
+mobile and internet.
+https://ubongo-kids.web.app/
+FahamuTech — Software development team
+Software consultations.
+https://fahamutech.com
