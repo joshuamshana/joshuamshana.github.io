@@ -1,8 +1,30 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaWhatsapp, FaTelegram } from 'react-icons/fa';
+import { useNavigate } from 'react-router-dom';
+import { useCallback } from 'react';
 
 const Home = () => {
+  const navigate = useNavigate();
+
+  const scrollToContact = useCallback((e) => {
+    e.preventDefault();
+    const contactSection = document.getElementById('contact');
+    if (contactSection) {
+      window.scrollTo({
+        top: contactSection.offsetTop - 80, // Adjust for header height
+        behavior: 'smooth'
+      });
+      // Update URL without causing a page reload
+      window.history.pushState(null, '', '#contact');
+    } else {
+      // Fallback to navigation if contact section not found
+      navigate('/contact');
+    }
+  }, [navigate]);
+  
+  
+  
   return (
     <div className="min-h-screen flex items-center justify-center">
       <motion.div
@@ -81,14 +103,15 @@ const Home = () => {
             <FaTelegram />
           </motion.a>
         </div>
-        <motion.a
-          href="#contact"
+        <motion.button
+          onClick={scrollToContact}
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          className="inline-block bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-full transition-all cursor-pointer"
+          className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-full transition-all cursor-pointer"
+          aria-label="Scroll to contact section"
         >
           Get in Touch
-        </motion.a>
+        </motion.button>
       </motion.div>
     </div>
   );
